@@ -1,6 +1,4 @@
-# Project: I Am Learning Python
-
-### Password Manager
+# Password Manager
 
 - The Password Manager is a secure and efficient Python application built with Tkinter. It allows users to generate, store, and retrieve strong passwords, ensuring a safe and organized way to manage credentials. The app saves all data in a JSON file for easy access and updates.
 
