@@ -16,8 +16,8 @@ import pyperclip
 import json
 
 # CONST
-JSON_PATH = r"E:\Learning\Python\Python_Projects\Password_Manager_With_Tkinter [Updated with JSON]\data.json"
-LOGO_PATH = r"E:\Learning\Python\Python_Projects\Password_Manager_With_Tkinter [Updated with JSON]\logo.png"
+JSON_PATH = r"./data.json"
+LOGO_PATH = r"./logo.png"
 
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
 def generate_password():
